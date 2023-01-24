@@ -1,4 +1,4 @@
-### Hello! Bonjour! I am Elodie 👋
+## Hello! Bonjour! I am Elodie 👋
 
 
 <!--
@@ -16,6 +16,8 @@ I am on a journey to expand my technical knowledge and become a Software Enginee
 
 Below you will find a few examples of the projects I have built while learning:
 
+
+### HTML, CSS and Vanilla JS:
 
 * [Rock, Paper, Scissors](https://elodiemai.github.io/RockPaperScissors)
 * [Etch-a-Sketch: Draw the Dino](https://elodiemai.github.io/DrawDino)
