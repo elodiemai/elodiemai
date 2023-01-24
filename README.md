@@ -16,3 +16,6 @@ I am on a journey to expand my technical knowledge and become a Software Enginee
 
 Below you will find a few examples of the projects I have built while learning:
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elodiemai)](https://github.com/elodiemai/github-readme-stats)
+
