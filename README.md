@@ -18,7 +18,7 @@ Below you will find a few examples of the projects I have built while learning:
 
 
 * [Rock, Paper, Scissors](https://elodiemai.github.io/RockPaperScissors)
-* [Draw the Dino](https://elodiemai.github.io/DrawDino)
+* [Etch-a-Sketch: Draw the Dino](https://elodiemai.github.io/DrawDino)
 * [Calculator](https://elodiemai.github.io/Calculator)
 
 [![Elodie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elodiemai&show_icons=true&theme=dark)](https://github.com/elodiemai/github-readme-stats)
