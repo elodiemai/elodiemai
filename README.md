@@ -1,4 +1,4 @@
-### Hello, Bonjour! I am Elodie 👋
+### Hello! Bonjour! I am Elodie 👋
 
 
 <!--
