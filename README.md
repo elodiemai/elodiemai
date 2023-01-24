@@ -17,5 +17,9 @@ I am on a journey to expand my technical knowledge and become a Software Enginee
 Below you will find a few examples of the projects I have built while learning:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elodiemai&show_icons=true&theme=dark)](https://github.com/elodiemai/github-readme-stats)
+* [Rock, Paper, Scissors](https://elodiemai.github.io/RockPaperScissors)
+* [Draw the Dino](https://elodiemai.github.io/DrawDino)
+* [Calculator](https://elodiemai.github.io/Calculator)
+
+[![Elodie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elodiemai&show_icons=true&theme=dark)](https://github.com/elodiemai/github-readme-stats)
 
