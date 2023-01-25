@@ -14,18 +14,6 @@ This is my personal portfolio.
 I am a Data Engineer with 10+ years of experience in data management using SAS, Python, SQL, VBA. 
 I am on a journey to expand my technical knowledge and become a Software Engineer.
 
-Below you will find a few examples of the projects I have built while learning:
-
-
-### HTML, CSS and Vanilla JS:
-
-* [Rock, Paper, Scissors](https://elodiemai.github.io/RockPaperScissors)
-* [Etch-a-Sketch: Draw the Dino](https://elodiemai.github.io/DrawDino)
-* [Calculator](https://elodiemai.github.io/Calculator)
-
-
-
-
 <table>
   <tr>
     <th><p align="left">Programming Languages:</p></th>
@@ -54,6 +42,16 @@ Below you will find a few examples of the projects I have built while learning:
 </td>
   </tr>
 </table>
+
+Below you will find a few examples of the projects I have built while learning:
+
+
+### HTML, CSS and Vanilla JS:
+
+* [Rock, Paper, Scissors](https://elodiemai.github.io/RockPaperScissors)
+* [Etch-a-Sketch: Draw the Dino](https://elodiemai.github.io/DrawDino)
+* [Calculator](https://elodiemai.github.io/Calculator)
+
 
 
 
