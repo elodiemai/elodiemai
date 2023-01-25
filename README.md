@@ -11,7 +11,7 @@
 -->
 
 This is my personal portfolio. 
-I am a Data Engineer with 10+ years of experience in data management using SAS, Python, SQL, VBA. 
+I am a Data Engineer with 10+ years of experience in data management using SAS, SQL. 
 I am on a journey to expand my technical knowledge and become a Software Engineer.
 
 <table>
