@@ -52,6 +52,7 @@ Below you will find a few examples of the projects I have built while learning:
 * [Etch-a-Sketch: Draw the Dino](https://elodiemai.github.io/DrawDino)
 * [Calculator](https://elodiemai.github.io/Calculator)
 * [Book Library](https://elodiemai.github.io/BookLibrary)
+* [Tic Tac Toe](https://elodiemai.github.io/TicTacToe)
 
 
 
