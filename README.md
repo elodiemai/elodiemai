@@ -53,6 +53,7 @@ Below you will find a few examples of the projects I have built while learning:
 * [Calculator](https://elodiemai.github.io/Calculator)
 * [Book Library](https://elodiemai.github.io/BookLibrary)
 * [Tic Tac Toe](https://elodiemai.github.io/TicTacToe)
+* [Restaurant Page](https://elodiemai.github.io/RestaurantPage)
 
 
 
