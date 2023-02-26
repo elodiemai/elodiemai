@@ -57,6 +57,3 @@ Below you will find a few examples of the projects I have built while learning:
 
 
 
-
-[![Elodie's GitHub stats](https://github-readme-stats-six-lime.vercel.app/api?username=elodiemai&show_icons=true&theme=dark)](https://github.com/elodiemai/github-readme-stats)
-
